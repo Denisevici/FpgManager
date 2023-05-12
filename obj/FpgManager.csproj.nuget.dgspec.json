@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dkomerzan\\Desktop\\Practice\\FPG\\FpgManager\\FpgManager.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dkomerzan\\Desktop\\Practice\\FPG\\FpgManager\\FpgManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dkomerzan\\Desktop\\Practice\\FPG\\FpgManager\\FpgManager.csproj",
+        "projectName": "FpgManager",
+        "projectPath": "C:\\Users\\dkomerzan\\Desktop\\Practice\\FPG\\FpgManager\\FpgManager.csproj",
+        "packagesPath": "C:\\Users\\dkomerzan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dkomerzan\\Desktop\\Practice\\FPG\\FpgManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dkomerzan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Ccr.PresentationCore": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "HIC.System.Windows.Forms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "NetTopologySuite.IO.ShapeFile": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "OO.Presentation": {
+              "target": "Package",
+              "version": "[1.7.46, )"
+            },
+            "PresentationFramework": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Syncfusion.Presentation.Net.Core": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "TypeShape": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "WpfShapes": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
